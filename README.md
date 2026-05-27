@@ -19,7 +19,7 @@ Solving DSA problems using C++ while building real-world projects consistently.
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,nodejs,express,mongodb,docker,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,nodejs,express,mongodb,mysql,docker,linux,aws,git,github,vscode,redis" />
 </p>
 
 ---
