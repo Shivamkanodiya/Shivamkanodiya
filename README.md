@@ -2,7 +2,7 @@
 
 # Hey, I'm Shivam 👋
 
-### Backend Developer • DevOps • Cloud Computing • DSA with C++
+### Software Engineer • Backend • DevOps • Cloud Computing • DSA with C++
 
 </div>
 
