@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=14B8A6&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+Backend+%2B+DevOps;Solving+DSA+with+C%2B%2B;Practicing+on+LeetCode" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Backend+%2B+DevOps;Solving+DSA+with+C%2B%2B;Practicing+on+LeetCode" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamkanodiya&hide_border=true&theme=default"/>
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
 </p>
 
 ---
