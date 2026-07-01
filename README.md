@@ -21,9 +21,9 @@
 
 🎓 Final-year CSE student, graduating 2027
 
-⚙️ Backend-focused developer — building real, self-deployed projects instead of just following tutorials
+⚙️ Backend and DevOps-focused developer, learning through hands-on projects
 
-🐳 Working with Docker, AWS, and deployment pipelines; deepening my cloud and CI/CD fundamentals
+🐳 Working with Docker, AWS, and deployment pipelines — exploring cloud fundamentals
 
 🧮 Practicing DSA on LeetCode — strengthening problem-solving in C++
 
