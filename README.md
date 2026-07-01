@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:14B8A6&height=220&section=header&text=Shivam%20Kanodiya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20|%20DevOps%20|%20Cloud%20Computing&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:14B8A6&height=220&section=header&text=Shivam%20Kanodiya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Backend%20|%20DevOps%20|%20Cloud%20Computing&descAlignY=55&descSize=16"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=14B8A6&center=true&vCenter=true&width=500&lines=Backend+Developer+%7C+DevOps;Solving+DSA+with+C%2B%2B;Practicing+on+LeetCode" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=14B8A6&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+Backend+%2B+DevOps;Solving+DSA+with+C%2B%2B;Practicing+on+LeetCode" alt="Typing SVG" />
 </p>
 
 <p align="center">
