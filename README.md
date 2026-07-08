@@ -34,7 +34,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ShivamKanodiya&theme=default&disable_animations=true" alt="GitHub Streak" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
 </p>
 
 ---
